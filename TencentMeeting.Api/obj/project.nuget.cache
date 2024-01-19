@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yietBnfiWSY3hnWoqSsMVd67k68GVGERxLn7k7p8MN59jipOjKxXLQsDNY0jDr3KPv9phcTc6OQBBKO6PHo0GA==",
+  "success": true,
+  "projectFilePath": "E:\\code\\TencentMeeting.Helper\\TencentMeeting.Api\\TencentMeeting.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lingkai.liu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nuget.pamirs.com/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

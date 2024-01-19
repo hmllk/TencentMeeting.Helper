@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMeeting.Demo", "TencentMeeting.Demo.csproj", "{13DDA7BE-9774-4081-B330-0F8D93E51F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMeeting.Api", "..\TencentMeeting.Api\TencentMeeting.Api.csproj", "{8810AE62-ED24-4058-A0EB-33B79B3ACF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMeeting.CallBack", "..\TencentMeeting.CallBack\TencentMeeting.CallBack.csproj", "{E6E2A57A-BCF0-4CF2-915E-6D343BBCF8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMeeting.Util", "..\TencentMeeting.Util\TencentMeeting.Util.csproj", "{D50F8884-C05C-4435-88F3-BD560C7D23B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13DDA7BE-9774-4081-B330-0F8D93E51F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DDA7BE-9774-4081-B330-0F8D93E51F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DDA7BE-9774-4081-B330-0F8D93E51F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DDA7BE-9774-4081-B330-0F8D93E51F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8810AE62-ED24-4058-A0EB-33B79B3ACF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8810AE62-ED24-4058-A0EB-33B79B3ACF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8810AE62-ED24-4058-A0EB-33B79B3ACF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8810AE62-ED24-4058-A0EB-33B79B3ACF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E2A57A-BCF0-4CF2-915E-6D343BBCF8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E2A57A-BCF0-4CF2-915E-6D343BBCF8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E2A57A-BCF0-4CF2-915E-6D343BBCF8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E2A57A-BCF0-4CF2-915E-6D343BBCF8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50F8884-C05C-4435-88F3-BD560C7D23B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50F8884-C05C-4435-88F3-BD560C7D23B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50F8884-C05C-4435-88F3-BD560C7D23B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50F8884-C05C-4435-88F3-BD560C7D23B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5A5359-DAAF-4E4E-AA2D-EA2701F10FC1}
+	EndGlobalSection
+EndGlobal

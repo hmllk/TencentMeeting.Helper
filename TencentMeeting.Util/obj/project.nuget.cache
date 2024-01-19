@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJ4Hadl0sSH34JiPqz9dbGa9e4R8AutOR+x1rw8vNHLCKoS83hUbsnDOdul4xAm+3KfJrDSnhRBd94KbWso/jw==",
+  "success": true,
+  "projectFilePath": "E:\\code\\TencentMeeting.Helper\\TencentMeeting.Util\\TencentMeeting.Util.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nuget.pamirs.com/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
