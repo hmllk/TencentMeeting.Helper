@@ -1,2 +1,2 @@
-# WeMeeting-Api
-.net api for wemeeting
+# TencentMeeting.Helper
+.net core helper for TencentMeeting
